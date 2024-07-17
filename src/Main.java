@@ -48,7 +48,9 @@ public class Main {
 
         //comの手を生成
         com.createRandomHand();
-        //以降にテストコードを追加して検証を行う
-        System.out.println(com.getHand().getHandName());
+//        //以降にテストコードを追加して検証を行う
+//        System.out.println(com.getHand().getHandName());
+        //勝敗決定
+//        int result = game.judge(user, com);
     }
 }
